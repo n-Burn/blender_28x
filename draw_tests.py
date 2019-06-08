@@ -1,3 +1,6 @@
+# the examples below were loosely based off code from the blender docs:
+# https://docs.blender.org/api/blender2.8/gpu.html
+
 import bpy, gpu, bgl, blf
 from gpu_extras.batch import batch_for_shader
 
